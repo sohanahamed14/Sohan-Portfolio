@@ -3,7 +3,7 @@
 A modern, high-performance developer portfolio featuring a 199-frame HD scroll animation canvas, pure liquid glass aesthetics, and a responsive two-wing layout.
 
 ## 🚀 Live Demo
-- **URL**: [https://github.com/sohanahamed14/](https://github.com/sohanahamed14/)
+- **URL**: https://sohanahammed14.vercel.app/
 
 ## 🛠️ Tech Stack
 - **Core**: Vanilla HTML5, CSS3, JavaScript (ES Modules)
